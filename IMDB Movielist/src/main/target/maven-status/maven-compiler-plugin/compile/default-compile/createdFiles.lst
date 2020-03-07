@@ -1,0 +1,7 @@
+com\ucm\movielist\serviceImpl\MovieServiceImpl.class
+com\ucm\movielist\repository\MovieRepository.class
+com\ucm\movielist\model\Movie.class
+com\ucm\movielist\Application.class
+com\ucm\movielist\service\MovieService.class
+com\ucm\movielist\controller\MovieController.class
+com\ucm\movielist\dto\MovieDto.class
